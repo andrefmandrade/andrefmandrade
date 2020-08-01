@@ -7,11 +7,3 @@ I’m currently learning **JavaScript**, **Node** and **React** just for fun, an
 :mailbox: **You can find me @**
 
 * [LinkedIn](https://www.linkedin.com/in/andrefmandrade/)
-
-## What I'm doing now? :computer:
-
-**Playing:** Pearl Jam - Even Flow :musical_note:
-
-**PC Uptime:** 03:14:15
-
-**Last Seen:** 27/07/2020 12:22:53
