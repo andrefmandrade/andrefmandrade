@@ -1,6 +1,6 @@
 ## Hello there! (General Kenobi) 👋
 
-I study web development since 2019, and I'm always looking for ways to improve my knowledge. I'm currently working at [Wlib](https://www.wlib.com.br/) as a Back-end developer.
+I study web development since 2019, and I'm always looking for ways to improve my knowledge. I'm currently working at [Checkplant](https://www.checkplant.com.br/) as a Back-end developer.
 
 I’m currently learning **JavaScript**, **Node** and **React** just for fun, and my main stack is **PHP**.
 
